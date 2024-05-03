@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Research Assistant, UCLA, 2018-2023
+* Research Assistant, UCLA, 2018-2024
 * Teaching Assistant, UCLA, 2018-2023
 * Research Assistant, Zhejiang University, 2015-2018
   
