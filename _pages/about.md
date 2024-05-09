@@ -21,6 +21,7 @@ I am always interested in research collaborations and looking for a faculty posi
 
 
 # Recent News:
+- 05/2024  Thrilled that paper was acceped by *<ins>Cell Reports Physical Sciecne</ins>*
 - 04/2024  Happy to receive *<ins>Grace Hopper Celebration (GHC) Scholarship</ins>*, AnitaB.org
 - 04/2024  Present the poster at *<ins>GSA Research Showcase</ins>*, UCLA Graduate Student Association
 - 04/2024  Honor to win *<ins>CESASC General Scholarship</ins>* from Chinese-American Engineers and Scientists Association of Southern California (CESASC)!
