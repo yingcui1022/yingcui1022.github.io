@@ -27,8 +27,7 @@ I am always interested in research collaborations and looking for a faculty posi
 - 04/2024  Happy to receive *<ins>Grace Hopper Celebration (GHC) Scholarship</ins>*, AnitaB.org
 - 04/2024  Present the poster at *<ins>GSA Research Showcase</ins>*, UCLA Graduate Student Association
 - 04/2024  Honor to win *<ins>CESASC General Scholarship</ins>* from Chinese-American Engineers and Scientists Association of Southern California (CESASC)!
-- 04/2024  Happy to receive the student scholarship from *<ins>2024 ASME Heat Transfer Summer Conference (SHTC)</ins>*
-- 03/2024  My first-author paper about vaccine adjuvant accepted by  *<ins>Journal of Materials Chemistry B </ins>*
+- 03/2024  Paper about vaccine adjuvant accepted by  *<ins>Journal of Materials Chemistry B </ins>*
 - 03/2024  Delighted to present "High-Performance Electronics Thermal Management Based on High Thermal Conductivity Boron Arsenide” at the  *<ins>Industry Advisory Board (IAB) Event </ins>*, UCLA
 - 03/2024  Organize *<ins>UCLA Graduate Open House </ins>* and gave a presentation on Hu lab introduction to newly admitted graduate students at UCLA MAE.
 
