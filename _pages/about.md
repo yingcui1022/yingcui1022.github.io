@@ -10,14 +10,13 @@ redirect_from:
 
 # About me:
 Welcome to my homepage! I am **Ying Cui (崔滢)**, currently a Ph.D. candidate at **UCLA Mechanical Engineering**, supervised by Prof. [Yongjie Hu](http://hu.seas.ucla.edu/). 
-My research lies in the intersection of **Heat Transfer, Semiconductor and Biology**. 
+My research lies in the intersection of **Heat Transfer, Manufacturing, Semiconductor and Biology**. 
 I am always interested in research collaborations and looking for a faculty position at mechanical engineering. 
 
 # Research interests:
-- **Thermal Management** in Semiconductor, Electronics, Energy and Personal
-- **Micro/nano Heat Transfer in Biology**: Cellular, Tissue, Biomedical and Healthcare
-- **Bioispired Materials**: multifunction, multiscale, and sustainability
-- **AI/ML-based Thermal Bioimaging**
+- **Thermal Management** in Semiconductor, Electronics Packaging, Energy
+- **Micro/nano Heat Transfer in Biomedical**: Cellular, Tissue, Biomedical and Healthcare
+- **Bioispired Materials and Manufacturing**: multifunction, multiscale, and sustainability
 
 
 # Recent News:
