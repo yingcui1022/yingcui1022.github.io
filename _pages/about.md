@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Book logo](/assets/summary.png)
+
 
 # About me:
 Welcome to my homepage! I am **Ying Cui (崔滢)**, Ph.D. at **UCLA Mechanical Engineering**, supervised by Prof. [Yongjie Hu](http://hu.seas.ucla.edu/). 
