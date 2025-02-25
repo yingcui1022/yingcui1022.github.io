@@ -9,7 +9,7 @@ redirect_from:
 
 
 # About me:
-Welcome to my homepage! I am **Ying Cui (崔滢)**, I am a Ph.D. from **UCLA Mechanical Engineering**, supervised by Prof. [Yongjie Hu](http://hu.seas.ucla.edu/). 
+Welcome to my homepage! I am **Ying Cui (崔滢)**, I am currently a Postdoctoral Scholar and obtained my Ph.D. degree from **UCLA Mechanical Engineering**, supervised by Prof. [Yongjie Hu](http://hu.seas.ucla.edu/). 
 My research lies in the intersection of **Heat Transfer, Manufacturing, Bioinspired, and Biomedical**. 
 I am always interested in research collaborations and looking for a faculty position at mechanical engineering. 
 
